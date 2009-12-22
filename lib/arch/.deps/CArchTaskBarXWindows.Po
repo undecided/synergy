@@ -1,0 +1,27 @@
+CArchTaskBarXWindows.o: CArchTaskBarXWindows.cpp CArchTaskBarXWindows.h \
+  IArchTaskBar.h ../../lib/common/IInterface.h ../../lib/common/common.h \
+  ../../config.h /usr/include/assert.h /usr/include/features.h \
+  /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
+
+CArchTaskBarXWindows.h:
+
+IArchTaskBar.h:
+
+../../lib/common/IInterface.h:
+
+../../lib/common/common.h:
+
+../../config.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:

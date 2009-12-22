@@ -1,0 +1,131 @@
+CStreamBuffer.o: CStreamBuffer.cpp CStreamBuffer.h \
+  ../../lib/common/BasicTypes.h ../../lib/common/common.h ../../config.h \
+  /usr/include/assert.h /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64.h ../../lib/common/stdlist.h \
+  ../../lib/common/stdpre.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/list \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_algobase.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/x86_64-slackware-linux/bits/c++config.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/x86_64-slackware-linux/bits/os_defines.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/x86_64-slackware-linux/bits/cpu_defines.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/cstddef \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/include/stddef.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/functexcept.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/exception_defines.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/cpp_type_traits.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/ext/type_traits.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/ext/numeric_traits.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_pair.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_move.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/concept_check.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_iterator_base_types.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_iterator_base_funcs.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_iterator.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/debug/debug.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/allocator.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/x86_64-slackware-linux/bits/c++allocator.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/ext/new_allocator.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/new \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/exception \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_list.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/list.tcc \
+  ../../lib/common/stdpost.h ../../lib/common/stdvector.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/vector \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_construct.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_uninitialized.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_vector.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_bvector.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/vector.tcc
+
+CStreamBuffer.h:
+
+../../lib/common/BasicTypes.h:
+
+../../lib/common/common.h:
+
+../../config.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+../../lib/common/stdlist.h:
+
+../../lib/common/stdpre.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/list:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_algobase.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/x86_64-slackware-linux/bits/c++config.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/x86_64-slackware-linux/bits/os_defines.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/x86_64-slackware-linux/bits/cpu_defines.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/cstddef:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/include/stddef.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/functexcept.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/exception_defines.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/cpp_type_traits.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/ext/type_traits.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/ext/numeric_traits.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_pair.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_move.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/concept_check.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_iterator_base_types.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_iterator_base_funcs.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_iterator.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/debug/debug.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/allocator.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/x86_64-slackware-linux/bits/c++allocator.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/ext/new_allocator.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/new:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/exception:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_list.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/list.tcc:
+
+../../lib/common/stdpost.h:
+
+../../lib/common/stdvector.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/vector:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_construct.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_uninitialized.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_vector.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/stl_bvector.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/../../../../include/c++/4.3.3/bits/vector.tcc:

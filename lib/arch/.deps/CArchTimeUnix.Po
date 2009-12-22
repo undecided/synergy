@@ -1,0 +1,52 @@
+CArchTimeUnix.o: CArchTimeUnix.cpp CArchTimeUnix.h IArchTime.h \
+  ../../lib/common/IInterface.h ../../lib/common/common.h ../../config.h \
+  /usr/include/assert.h /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64.h /usr/include/sys/time.h \
+  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+  /usr/include/time.h /usr/include/bits/time.h /usr/include/sys/select.h \
+  /usr/include/bits/select.h /usr/include/bits/sigset.h \
+  /usr/lib64/gcc/x86_64-slackware-linux/4.3.3/include/stddef.h \
+  /usr/include/xlocale.h
+
+CArchTimeUnix.h:
+
+IArchTime.h:
+
+../../lib/common/IInterface.h:
+
+../../lib/common/common.h:
+
+../../config.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/sys/time.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/lib64/gcc/x86_64-slackware-linux/4.3.3/include/stddef.h:
+
+/usr/include/xlocale.h:
